@@ -41,7 +41,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m not aM developer, digital artist, consultant and a bunch of other
+      I’m The best developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
